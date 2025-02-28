@@ -1,6 +1,7 @@
 # C++
 This repo describes some of C++ concepts mentioned within the code comments and provides code examples per each concept
 The concepts are:
+
 1- Intro to C++
    - vectors, arrays, pointers
 2- OOP
