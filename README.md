@@ -4,6 +4,7 @@ The concepts are:
 
 1- Intro to C++
    - vectors, arrays, pointers
+   
 2- OOP
   - Classes
   - Access specifiers
