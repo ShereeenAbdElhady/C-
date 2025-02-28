@@ -24,3 +24,13 @@ The concepts are:
 
 5- Data Structure
   - Linked list
+     Linked list operations (functions) 
+                       > Add first
+                       > Add last
+                       > Add index
+                       > Delete first
+                       > Delete last
+                       > Delete index     
+                       > Read index   
+                       > Read first
+                       > Read last 
